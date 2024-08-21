@@ -18,7 +18,7 @@ This is a simple command-line calculator program written in `C`. It supports bas
 
 To compile and run this program, you'll need:
 
-- A `C` compiler (e.g., `clang++`, `g++`)
+- A `C` compiler
 - A terminal or command prompt
 
 ### Compilation
