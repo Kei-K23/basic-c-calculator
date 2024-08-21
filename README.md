@@ -28,7 +28,7 @@ To compile and run this program, you'll need:
 3. Compile the code using a `C` compiler. For example, using `clang`:
 
 ```bash
-clang main.cpp -o calculator
+clang main.c -o calculator
 ```
 
 ## Running the Program
